@@ -10,4 +10,8 @@ My network is convex and has error correction abilities during training.
 
 Please read my paper for more details.
 
-[My paper](https://zenodo.org/records/19402689)
+[My paper]
+(https://zenodo.org/records/19496155)
+
+[Other paper]
+(https://zenodo.org/records/19402689)
