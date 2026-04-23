@@ -16,9 +16,9 @@ Please read my paper for more details.
 [Other paper]
 (https://zenodo.org/records/19402689)
 
-![Achievements](S1.png)
+![Achievements](Screenshot_20260424_000925_com_linkedin_android_MainActivity.jpg )
 
-![Achievements](S2.png)
+![Achievements](Screenshot_20260424_000937_com_linkedin_android_MainActivity.jpg)
 
 # License to use
 
