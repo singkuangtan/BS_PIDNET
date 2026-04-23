@@ -16,6 +16,10 @@ Please read my paper for more details.
 [Other paper]
 (https://zenodo.org/records/19402689)
 
+![Achievements](S1.png)
+
+![Achievements](S2.png)
+
 # License to use
 
 Custom Attribution and Citation License (CACL) v1.0
